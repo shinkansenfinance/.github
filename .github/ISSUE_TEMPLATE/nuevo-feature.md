@@ -3,7 +3,7 @@ name: Nuevo Feature
 about: Nuevo requerimiento para el proyecto
 title: ''
 labels: ''
-assignees: afiebig
+assignees: ''
 
 ---
 
